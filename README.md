@@ -1,4 +1,4 @@
 # hello-world
 CIS 320 Github Example
-
-Hello.!
+CIS 320
+Dots and Movement
